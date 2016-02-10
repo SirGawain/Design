@@ -52,6 +52,9 @@
     <Reference Include="Tao.Platform.Windows, Version=1.0.0.5, Culture=neutral, PublicKeyToken=701104b2da67a104" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="anBrush.cs" />
+    <Compile Include="anEngine.cs" />
+    <Compile Include="anLayer.cs" />
     <Compile Include="Form1.cs">
       <SubType>Form</SubType>
     </Compile>
